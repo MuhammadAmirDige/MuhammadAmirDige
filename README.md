@@ -48,4 +48,5 @@ I am a tech-driven professional dedicated to building high-quality digital solut
 ---
 
 ### 📊 GitHub Stats
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?(https://github.com/MuhammadAmirDige)-HERE&show_icons=true&theme=dark)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAmirDige&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmirDige&layout=compact&theme=dark)
